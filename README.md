@@ -149,19 +149,28 @@ Led and supported OpenStack-based Telco Cloud deployments across multi-site 4G/5
 
 ---
 
-## GitHub Overview
+## GitHub Stats
 
 <p align="center">
-  <img src="./assets/github-overview.svg" alt="GitHub overview" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hbhangale3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hbhangale3&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hbhangale3&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
 
 ## Currently Focused On
 
-<p align="center">
-  <img src="./assets/tech-focus.svg" alt="Current technical focus" />
-</p>
+- Building production-style AI/RAG applications
+- Strengthening full-stack development with React, Next.js, Node.js, FastAPI, and Spring Boot
+- Improving DSA and system design fundamentals
+- Deploying AI applications with Docker, Kubernetes, CI/CD, and cloud platforms
 
 ---
 
