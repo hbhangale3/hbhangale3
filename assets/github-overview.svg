@@ -1,0 +1,22 @@
+<svg width="820" height="180" viewBox="0 0 820 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="820" height="180" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="818" height="178" rx="17" stroke="#30363D"/>
+  <text x="36" y="48" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">GitHub Overview</text>
+  <text x="36" y="85" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Active portfolio focused on AI/RAG systems, full-stack applications, cloud infrastructure, and telecom automation.</text>
+  <g transform="translate(36 116)">
+    <rect width="150" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+    <text x="20" y="24" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="14">AI / RAG</text>
+  </g>
+  <g transform="translate(206 116)">
+    <rect width="150" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+    <text x="20" y="24" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="14">Full Stack</text>
+  </g>
+  <g transform="translate(376 116)">
+    <rect width="150" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+    <text x="20" y="24" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="14">Cloud / DevOps</text>
+  </g>
+  <g transform="translate(546 116)">
+    <rect width="210" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+    <text x="20" y="24" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="14">Telco Infrastructure</text>
+  </g>
+</svg>
