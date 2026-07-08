@@ -1,0 +1,9 @@
+<svg width="820" height="200" viewBox="0 0 820 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="820" height="200" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="818" height="198" rx="17" stroke="#30363D"/>
+  <text x="36" y="48" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Current Technical Focus</text>
+  <text x="36" y="86" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Building production-style AI applications with strong backend architecture, semantic retrieval, and cloud-native deployment practices.</text>
+  <text x="36" y="124" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="15">• RAG pipelines and semantic search</text>
+  <text x="36" y="151" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="15">• React, Next.js, Node.js, FastAPI, and Spring Boot</text>
+  <text x="36" y="178" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="15">• Docker, Kubernetes, CI/CD, cloud platforms, and distributed systems</text>
+</svg>
