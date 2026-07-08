@@ -156,7 +156,7 @@ Led and supported OpenStack-based Telco Cloud deployments across multi-site 4G/5
 </p>
 
 <p align="center">
-  <img src="github-readme-stats-nu-seven-20.vercel.app/api/top-langs/?username=hbhangale3&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats-nu-seven-20.vercel.app/api/top-langs/?username=hbhangale3&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
