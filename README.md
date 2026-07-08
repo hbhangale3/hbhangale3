@@ -152,11 +152,11 @@ Led and supported OpenStack-based Telco Cloud deployments across multi-site 4G/5
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-nu-seven-20.vercel.app/api?username=hbhangale3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-master-harshwardhan-bhangales-projects.vercel.app/api?username=hbhangale3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-nu-seven-20.vercel.app/api/top-langs/?username=hbhangale3&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats-git-master-harshwardhan-bhangales-projects.vercel.app/api/top-langs/?username=hbhangale3&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
